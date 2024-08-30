@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software Engineering is a discipline within computer science that involves the design, development, testing, deployment, and maintenance of software systems. It applies engineering principles to software creation, ensuring that the software is reliable, efficient, maintainable, and scalable
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
